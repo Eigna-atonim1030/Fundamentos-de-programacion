@@ -34,7 +34,7 @@ Cada ejercicio está desarrollado en un archivo individual con su respectivo `.c
 
 Puedes ver la documentación completa y explicaciones detalladas del proyecto en el siguiente enlace:
 
-👉 [Documentación del curso en Notion 15/Enero 2024](https://www.notion.so/eignatonim/Condicionales-93024ab9fdc245ce94c27c7e4d3ab313?source=copy_link)
+👉 [Documentación de los ejercicios "Condicionales" en Notion 15/Enero 2024](https://www.notion.so/eignatonim/Condicionales-93024ab9fdc245ce94c27c7e4d3ab313?source=copy_link)
 
 ---
 
